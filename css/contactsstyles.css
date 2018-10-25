@@ -1,0 +1,22 @@
+
+
+body
+{
+	padding: auto;
+	margin:auto; 
+	font-family: 'Montserrat', sans-serif;
+	font-style: meduim;
+	font-size: 11px;
+	line-height: 13px;
+	text-align: center;
+}
+*
+{
+	margin:0;
+	padding:0;
+}
+html
+{margin:0;
+	padding:0;
+	width:100%;
+}

@@ -1,0 +1,157 @@
+ body
+{  	
+	width:100%;
+	display: block; 
+	font-family: 'Montserrat', sans-serif;
+	font-size: 11px;
+	line-height: 13px;
+	text-align: center;
+	margin: 0;
+	padding:0; 
+}
+header
+{
+	display: block;
+	width: 100%;
+	min-height:220px;
+	background-image: url('../img/aboutus-background-header.jpg');
+	background-position: top center;
+	background-repeat: no-repeat;
+	text-transform: uppercase;
+	
+}
+li
+{
+	list-style-type: none;
+}
+
+nav a
+{
+
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+
+.main-navigation
+{
+  max-height:55px;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.site-navigation
+{ 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width:100%;
+  margin:0;
+  padding:0; 
+  list-style:none;  
+}
+
+ 
+.main-navigation a
+{
+	padding:20px;
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.user-nav-wrapper
+{
+	width:100%;
+}
+.user-navigation
+{
+  display: flex;
+  flex-wrap: wrap; 
+  width:50%;
+  margin:0;
+  padding:0;  
+  justify-content: space-between;
+  padding-left:20%;
+
+} 
+
+.header-wrapper
+{
+	padding-left:8%;
+	padding-right:5%;
+}
+
+
+
+.sub-navigation nav
+{
+	padding:0;
+	margin:0;
+	display: inline-block;
+}
+
+.site-nav-wrapper
+{ 
+	padding-left:9%;
+	min-width: 65%;
+}
+ 
+ 
+.line-wrapper,
+.search-wrapper
+{
+	padding-left:10px;
+}
+.search-wrapper
+{
+	margin-left:-10px;
+	padding-top:2px;
+	margin-right:20px;
+}
+
+ .main-header-logo
+ { 
+ 	padding-right:0!important;
+ }
+
+
+ .site-nav-wrapper li>a
+ {
+  	padding-right:1em;
+ }
+main
+{
+	display: block;
+	width: 100%;
+	min-height:220px;
+	background-image: url('../img/bgmain.jpg');
+	background-position: top left;
+	background-repeat: no-repeat; 
+}
+
+ footer
+ {
+ 	width:100%;
+ }
+.main-footer
+{
+	display: inline-block;
+	min-height: 300px; 
+	width: 100%;
+	background-image: url('../img/bgfooter.jpg');
+	background-position: top center;
+	background-repeat: no-repeat; 
+}
+
+.another-footer
+{
+
+	display: inline-block;
+	padding:0;
+	margin-top:0px;
+	min-height: 200px; 
+	width: 100%;
+	background-image: url('../img/bgending.jpg');
+	background-position: top center;
+	background-repeat: no-repeat; 
+}
