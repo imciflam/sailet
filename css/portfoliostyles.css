@@ -337,7 +337,7 @@ main
 .another-footer
 {
 
-	display: inline-block;
+	display: flex;
 	padding:0;
 	margin-top:-10px;
 	min-height: 200px; 

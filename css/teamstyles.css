@@ -235,7 +235,7 @@ main
  }
 .main-footer
 {
-	display: inline-block;
+	display: flex;
  	z-index:1;
 	position:relative;
 	min-height: 300px; 
