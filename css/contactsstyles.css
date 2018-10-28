@@ -214,7 +214,7 @@ h3
 .another-footer
 {
 
-	display: inline-block;
+	display: flex;
 	padding:0;
 	margin-top:100px;
 	min-height: 200px; 
