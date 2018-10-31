@@ -213,7 +213,6 @@ h3
 
 .another-footer
 {
-
 	display: flex;
 	padding:0;
 	margin-top:100px;
@@ -237,7 +236,7 @@ h3
 	width: 10px;
 	height: 11px;
 }
-/* wtf sis up with mobile*/
+
 .call-us p::before
 {
 	content: "";
